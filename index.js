@@ -65,5 +65,3 @@ async function init() {
 
       renderArt();
 
-init();
-
