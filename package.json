@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "https://github.com/Daniel-Covington/Employee_Tracker"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://github.com/Daniel-Covington/Employee_Tracker"
   },
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/Daniel-Covington/",
   "dependencies": {
     "ascii-art": "^2.8.5",
     "ascii-art-table": "^1.0.1",
