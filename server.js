@@ -153,9 +153,7 @@ async function viewAllDepartments(init) {
         },
       ]);
 
-      
-  
-  
+    
       const managerID = () => {
         if(answers.manager !== null) {
           return answers.manager;
